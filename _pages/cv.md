@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* AB in Psychology and English, Dartmouth College, 2016
+* MSc in Neuroscience, Norwegian University of Science and Technology (NTNU), 2024
+* Ph.D in Neuroscience, Maybe Your Institution?
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - 2022: Technical Recruiter
+  * Amazon, Inc.
+  * Duties included: Recruiting SDEs, QAEs, TPMs
+
 
 * Fall 2015: Research Assistant
   * Github University
