@@ -38,10 +38,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <b>Hong, Jae</b>; Bätz, Leona Rahel; Ye, Shuer; Reutens, David; Ebner, Natalie; Ziaei, Maryam. (In submission).
+    Older adults display similar neural networks for anger and pride.
   
+  Maechler, Marvin; Norton, Samantha; McLaren, Natalia; <b>Hong, Jae</b>; Gobbini, M.I. (Under review). It's not
+    all Black and White: implicit racial bias extends to other races as well. PLOS ONE.
   
 Teaching
 ======
