@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jae Hong"
-  avatar           : "Jae Hong Headshot Close.jpg"
+  avatar           : https://github.com/jaeshong/jaeshong.github.io/blob/12e418930fa9815f0848526ef2ecd792d0d2eaa6/Jae%20Hong%20Headshot%20Close.jpg
   bio              : "Current master's student at NTNU with experience in neuroimaging"
   location         : "Trondheim, Norway"
   employer         :
