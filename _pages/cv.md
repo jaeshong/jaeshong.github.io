@@ -46,10 +46,8 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Teaching Assistant for Cognitive and Behavioral Neuroscience (NEVR 3003)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer curating the MSc 2024 Cohort yearbook
