@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jae Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "MD Student - MS Neuroscience"
+  location         : "Frankfurt am Main"
+  employer         : "European University Cyprus School of Medicine - Frankfurt Branch"
   uri              : # URL
   email            : "none@example.org" 
 
