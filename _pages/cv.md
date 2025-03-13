@@ -62,4 +62,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer for Naturviterne - the natural scientists union of Norway
+* Medical volunteer for Camp Ten Trees
