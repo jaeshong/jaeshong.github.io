@@ -22,11 +22,11 @@ Work experience
   * Duties includes: Participant recruitment, coordination, scanning, data analysis, and psychophysiological testing in Norwegian, German, and English
   * PI: Maryam Ziaei
 
-* 2021-2022: Technical Recruiter
+* 2021 - 2022: Technical Recruiter
   * Amazon Alexa
   * Duties included: Identify hiring needs, pursuing expansion plans, managing 1000+ applications, interviewing, training, program management
 
-* 2018-2020: Research Assistant
+* 2018 - 2020: Research Assistant
   * Person Perception Lab
   * Duties included: Testing, pilot data analysis, study conception
   * PI: Ida Gobbini
