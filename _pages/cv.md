@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MD, European University Cyprus - Frankfurt Branch, Current
+* MSc in Neuroscience, Norwegian University of Science and Technology, 2022
+* AB in Psychology/Neuroscience and English, Dartmouth College, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2024: Research Assistant
+  * Ziaei Lab
+  * Duties includes: Participant recruitment, coordination, scanning, data analysis, and psychophysiological testing in Norwegian, German, and English
+  * PI: Maryam Ziaei
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2022: Technical Recruiter
+  * Amazon Alexa
+  * Duties included: Identify hiring needs, pursuing expansion plans, managing 1000+ applications, interviewing, training, program management
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2020: Research Assistant
+  * Person Perception Lab
+  * Duties included: Testing, pilot data analysis, study conception
+  * PI: Ida Gobbini
   
-Skills
+Skills/Certifications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * MATLAB
+  * Python
+  * R
+* Graphic Design
+  * Adobe Illustrator
+  * Inkscape
+* FELASA B
 
 Publications
 ======
@@ -47,11 +48,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
