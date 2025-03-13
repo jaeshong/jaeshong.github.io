@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jae Hong"
 title_separator          : "-"
 name                     : &name "Jae Hong"
-description              : &description "personal description"
+description              : &description "Hello! Welcome to my site. I am a current MD student with a background in neuroscience and neuroimaging. I previously published research on the neural basis of emotion and would be happy to talk more about it. Please feel free to get in touch using my email on the left."
 url                      : https://jaeshong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,16 +28,16 @@ author:
   bio              : "MD Student - MS Neuroscience"
   location         : "Frankfurt am Main"
   employer         : "European University Cyprus School of Medicine - Frankfurt Branch"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "jaeshong.github.io"
+  email            : "jae.s.hong.20@dartmouth.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8893-1285"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jaeshong"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
