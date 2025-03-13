@@ -30,6 +30,11 @@ Work experience
   * Person Perception Lab
   * Duties included: Testing, pilot data analysis, study conception
   * PI: Ida Gobbini
+
+* 2018: Research Assistant
+  * Rogers Lab
+  * Duties included: Conducting interviews, transcribing interviews, coding interview scores
+  * PI: Kimberly Rogers 
   
 Skills/Certifications
 ======
