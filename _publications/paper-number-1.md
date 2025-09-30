@@ -2,7 +2,7 @@
 title: "Similar neural networks for anger and pride in older adults"
 collection: publications
 category: manuscripts
-permalink: /publication/paper-number-1
+#permalink: /publication/paper-number-1
 excerpt: 'We used Partial Least Squares (PLS) to analyze activation patterns between younger and older adults when viewing basic and social emotions. The results may surprise you.'
 date: 2025
 venue: 'Neuropsychologia'
